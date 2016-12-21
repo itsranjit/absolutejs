@@ -1,6 +1,6 @@
 {
   "name": "absolutejs",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Absolute JS framework",
   "main": "index.js",
   "scripts": {
