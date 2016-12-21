@@ -1,6 +1,6 @@
 {
   "name": "absolutejs",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Absolute JS framework",
   "main": "index.js",
   "scripts": {
@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/itsranjit/absolutejs.git"
+    "url": "git+https://github.com/ranjitpatra/absolutejs.git"
   },
   "keywords": [
     "AngularJs"
@@ -24,9 +24,9 @@
   "author": "Ranjit Patra",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/itsranjit/absolutejs/issues"
+    "url": "https://github.com/ranjitpatra/absolutejs/issues"
   },
-  "homepage": "https://github.com/itsranjit/absolutejs#readme",
+  "homepage": "https://github.com/ranjitpatra/absolutejs#readme",
   "dependencies": {
     "@angular/common": "~2.4.0",
     "@angular/compiler": "~2.4.0",
